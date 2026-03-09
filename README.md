@@ -1,4 +1,7 @@
 # vless2clash
-Convert a VLESS subscription link into a Clash subscription file.   将vless订阅链接转成clash订阅文件
 
-# python vless2clash.py
+Convert a VLESS subscription link into a Clash subscription file.  
+将 VLESS 订阅链接转成 Clash 订阅文件
+
+```python
+python vless2clash.py
